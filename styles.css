@@ -27,14 +27,17 @@ p {
 h1 {
   font-family: RailwayRegular;
   font-size: 24px;
+  text-align: center;
 }
 
 h2 {
   font-family: RailwayRegular;
   font-size: 20px;
+  text-align: center;
 }
 
 h3 {
   font-family: RailwayRegular;
   font-size: 16px;
+  text-align: center;
 }
